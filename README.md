@@ -5,6 +5,8 @@ Hér fyrir neðan eru linkar á verkefnin
 * [Kóði](https://github.com/EliasHar/VESM3/blob/master/Verk2/2.1.py)
 * [Myndband](https://youtu.be/uChIhBiC4xE)
 
+Er ekki með PIR hreyfiskynjara eða myndavél
+
 ## Verkefni 3
 ### 3.1
 * [Svör](https://github.com/EliasHar/VESM3/blob/master/Verk3/Spurningar.md)
