@@ -37,4 +37,9 @@ Er ekki með myndavél
 Höfðum ekki tíma til að klára þennan lið í tímanum
 
 ## Verkefni 4
-rpi hjá mér var ekki að vilja importa Adafruit io og digital io. ég prufaði að installa því 4 sinnum og það koma bara alltaf error með að sækja það svo ég náði ekki að gera það..
+### 4.1
+* [Kóði](https://github.com/EliasHar/VESM3/blob/master/Verk4/digital_in.py)
+* [Myndband](https://youtu.be/jGIC7SOa2GM)
+### 4.2
+* [Kóði](https://github.com/EliasHar/VESM3/blob/master/Verk4/digital_out.py)
+* [Myndband](https://youtu.be/PlaRC2LxXC0)
